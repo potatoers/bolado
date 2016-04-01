@@ -1,1 +1,1 @@
-script: ./ls.rb
+script: ruby ./ls.rb
